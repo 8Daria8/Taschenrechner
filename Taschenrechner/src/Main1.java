@@ -14,7 +14,7 @@ public class Main1 {
         double num1 = new Scanner(System.in).nextDouble();
         System.out.println("Geben Sie Zweite Zahl ein");
         double num2 =new Scanner(System.in).nextDouble();
-        double result = 0;
+        double result;
 
         if (choice == 1) {
             result = num1 + num2;
