@@ -30,7 +30,7 @@ public class Main1 {
             System.out.println("Error");
             return;
         }
-        System.out.println("Ergebnis: " + result);
+        System.out.println(" Ergebnis: " + result);
 
     }
 }
