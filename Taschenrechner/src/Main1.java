@@ -20,8 +20,6 @@ public class Main1 {
             result = num1 + num2;
         } else if (choice == 2) {
             result = num1 - num2;
-        } else if (choice == 2) {
-            result = num1 - num2;
         } else if (choice == 3) {
             result = num1 * num2;
         } else if (choice == 4){
